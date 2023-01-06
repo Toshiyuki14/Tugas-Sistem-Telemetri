@@ -1,2 +1,4 @@
 # Tugas-Sistem-Telemetri
 Pengecekan Detak jantung MAX30102
+Bpk PUTRA WISNU AGUNG SUCIPTO S.T M.T
+UNIVERSITAS ISLAM 45 BEKASI
